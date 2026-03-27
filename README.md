@@ -50,7 +50,7 @@ if valor1 == valor2:
 
 [@natanaelmizzone](https://instagram.com/natanael.mizzone) :+1: RECEBAAAAAA! 	:trollface: :shipit: :bowtie: :basecampy: :atom:
 
-![C#](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/3840px-C_Sharp_Logo_2023.svg.png)
+![C#](https://tse1.mm.bing.net/th/id/OIP.flSIt2ea0Wv0KeWQnUW04QAAAA?rs=1&pid=ImgDetMain&o=7&rm=3)
 
 
 
