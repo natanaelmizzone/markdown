@@ -52,20 +52,24 @@ if valor1 == valor2:
 
 ![C#](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/3840px-C_Sharp_Logo_2023.svg.png)
 
+
+
 > [!NOTE]
-Importante, vá de Front-end!!!
+> Importante, vá de Front-end!!!
 
 > [!TIP]
-Se você foi para Back-End, sinto muito...
+> Se você foi para Back-End, sinto muito...
 
 > [!IMPORTANT]
-Reveja, pense e repense!
+> Reveja, pense e repense!
 
 > [!WARNING]
-O golpe ta ai, cai quem quer.
+> O golpe ta ai, cai quem quer.
 
 > [!CAUTION]
-A casa caiu pae....olha o gorpe!
+> A casa caiu pae....olha o gorpe!
+
+
 
 
 <p align="center"> <h2 align="center">Learning Tools:</h2> </p>
