@@ -48,6 +48,7 @@ if valor1 == valor2:
 [Saiba Mais sobre C#](https://learnxinyminutes.com/)
 
 
+[@natanaelmizzone](https://instagram.com/natanael.mizzone) :+1: RECEBAAAAAA! 	:trollface: :bowtie:	:bowtie:
 
 ![C#](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/3840px-C_Sharp_Logo_2023.svg.png)
 
@@ -67,3 +68,4 @@ if valor1 == valor2:
 </p>
  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
