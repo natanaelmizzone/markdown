@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26291131/README.md)
+
 # Registro C# 
  > Autor: Natanael dos Santos
 
@@ -45,3 +45,8 @@ if valor1 == valor2:
         print("Os números são iguais");
 
 ```
+[Saiba Mais sobre C#](https://learnxinyminutes.com/)
+
+
+
+![C#](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/3840px-C_Sharp_Logo_2023.svg.png)
