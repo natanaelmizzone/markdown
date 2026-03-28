@@ -50,9 +50,6 @@ if valor1 == valor2:
 
 [@natanaelmizzone](https://instagram.com/natanael.mizzone) :+1: RECEBAAAAAA! 	:trollface: :shipit: :bowtie: :basecampy: :atom:
 
-![C#](https://tse1.mm.bing.net/th/id/OIP.flSIt2ea0Wv0KeWQnUW04QAAAA?rs=1&pid=ImgDetMain&o=7&rm=3)
-
-
 
 > [!NOTE]
 > Importante, vá de Front-end!!!
@@ -68,6 +65,17 @@ if valor1 == valor2:
 
 > [!CAUTION]
 > A casa caiu pae....olha o gorpe!
+
+
+
+| N° | Descrição | Quantidade|
+| --- | --- | --- |
+| 0101 | Livro JS        | 210 |
+| 1010 | Livro TS        | 29 |
+| 0110 | Livro C#        | 45 |
+| 1001 | Livro HTML/CSS  | 156 |
+| 0011 | Livro Framework | 248|
+| 1100 | Livro FIGMA     | 10 |
 
 
 
@@ -88,3 +96,5 @@ if valor1 == valor2:
  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
+
+![C#](https://tse1.mm.bing.net/th/id/OIP.flSIt2ea0Wv0KeWQnUW04QAAAA?rs=1&pid=ImgDetMain&o=7&rm=3)
